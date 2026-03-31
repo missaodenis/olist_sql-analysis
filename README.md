@@ -46,7 +46,7 @@ O projeto integra as seguintes tabelas disponibilizadas na plataforma Kaggle:
 
 IMAGEM DO MODELO
 
-![Modelo de Dados](images/data_model.png)
+![Modelo Dados](images/Modelo_Olist.png)
 
 GRANULARIDADE DOS DADOS
 
