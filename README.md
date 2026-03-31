@@ -208,7 +208,7 @@ Estratégias Recomendadas:
 
 Adotar práticas de promoções e propagandas desses produtos que lideram, focando no que a empresa tem acertado.
 
-## 5. Peso do produto pelo tempo de entrega
+## 5. Peso do produto x Tempo de entrega
 
 ### Consulta SQL
 
